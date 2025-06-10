@@ -1,4 +1,4 @@
-# Prueba-de-Desempeño---Modulo-2
+# Prueba-de-Desempeño--Módulo-2
 Prueba realizada tras la finalización del módulo #2 - Riwi
 
 ## 1. Página Principal.
